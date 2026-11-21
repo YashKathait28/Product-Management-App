@@ -132,7 +132,7 @@ export const Dashboard = () => {
 
   return (
     <div className="min-h-screen m-0 p-5 bg-amber-50">
-      <div className="border-2 bg-indigo-50 mt-10 md:mt-0 mx-0 md:mx-auto p-3 md:p-5 md:max-w-4xl shadow-2xl rounded-lg overflow-auto">
+      <div className="border-2 bg-indigo-50 mt-6 md:mt-0 mx-0 md:mx-auto p-3 md:p-5 md:max-w-4xl shadow-2xl rounded-lg overflow-auto">
         <nav className="flex flex-col md:flex-row md:justify-between items-center">
           <div className="flex gap-5 md:gap-4">
             <img src="favicon.svg" className="h-8 w-8 mt-1"></img>
