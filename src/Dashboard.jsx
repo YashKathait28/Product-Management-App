@@ -14,25 +14,25 @@ export const Dashboard = () => {
     {
       id: crypto.randomUUID(),
       product: "T-shirt",
-      price: "₹50,000",
+      price: "50,000",
       status: "Active",
     },
     {
       id: crypto.randomUUID(),
       product: "Shirt",
-      price: "₹2000",
+      price: "2000",
       status: "Active",
     },
     {
       id: crypto.randomUUID(),
       product: "Jacket",
-      price: "₹5500",
+      price: "5500",
       status: "Active",
     },
     {
       id: crypto.randomUUID(),
       product: "Full-sleeves",
-      price: "₹4200",
+      price: "4200",
       status: "Active",
     },
   ]);

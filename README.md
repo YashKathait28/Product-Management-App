@@ -110,4 +110,4 @@ Through this project, I practiced:
 
 **Yash Kathait**
 
-Computer Science Engineering Student | Full Stack Developer
+Full Stack Developer
